@@ -1,8 +1,6 @@
 # road-safety-report-redesign
 This project involved evaluating and redesigning three data visualization slides from the **Road Safety Authority of Ireland’s 2023 Fatalities Report**, focusing on clarity, perception, and explanatory effectiveness.
 
-This project involved evaluating and redesigning three data visualization slides from the **Road Safety Authority of Ireland’s 2023 Fatalities Report**.
-
 The task included:
 - Critically assessing selected slides based on visual perception and explanatory principles
 - Redesigning the slides using best practices in chart selection, color use, and layout
