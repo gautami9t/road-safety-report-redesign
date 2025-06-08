@@ -14,8 +14,8 @@ All work was completed as part of an academic assignment focused on effective da
 
 We selected and redesigned 3 original slides from RSA's 2023 fatalities report.
 
-- 📄 [`Original Slides.pdf`](./Original Slides.pdf) 
-- 🎨 [`Redesigned Slides.pdf`](./Redesigned Slides.pdf)
+- 📄 [`Original Slides.pdf`]
+- 🎨 [`Redesigned Slides.pdf`]
 
 
 ## 🧠 Professor Feedback
